@@ -21,6 +21,7 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'isAdmin',
     ];
 
     /**
@@ -45,4 +46,18 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+
+    public function cart()
+    {
+        return $this->hasMany(Cart::class);
+    }
+    public function review()
+    {
+        return $this->hasMany(Cart::class);
+    }
+    public function order()
+    {
+        return $this->hasMany(Cart::class);
+    }
+
 }
