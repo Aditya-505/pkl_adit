@@ -63,3 +63,11 @@ Route::delete('siswa/{id}', [MyController::class, 'destroy']);
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+
+use App\Http\Middleware\Admin;
+// Admin
+use App\Http\Controllers\BackendController;
+Route::group(['prefix' => 'admin','middleware' => ['auth',Admin::class]], function () {
+    Route::get('/', [BackendController::class, 'index']);
+        
+    });
