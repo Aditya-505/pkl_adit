@@ -32,7 +32,7 @@
     <main class="main_wrapper body__overlay overflow__hidden">
 
         <!-- header__topbar__start -->
-    
+
         <!-- header__topbar__end -->
         @include('layouts.component-frontend.navbar')
 
@@ -45,20 +45,20 @@
 
 
         <!-- herobanner__start -->
-         
+
             <!-- feature__section__start -->
 
 
 
                         <!-- feature__section__start -->
-                        
-  
+
+
    <!-- instagram__end -->
 
 
 
 <!-- footer__section__start -->
- 
+
 
  <!-- footer__section__end -->
 
@@ -146,7 +146,10 @@
     <script src="{{ asset('assets/frontend/js/fontawesome.min.js')}} "></script>
     <script src="{{ asset('assets/frontend/js/plugins.js')}} "></script>
     <script src="{{ asset('assets/frontend/js/main.js')}} "></script>
-    @stack('scripts')
+
+  @include('sweetalert::alert')
+  @yield('js')
+  @stack('scripts')
 
 </body>
 

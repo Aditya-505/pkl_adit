@@ -448,7 +448,7 @@
                                                             fill="none" stroke="currentColor" stroke-linecap="round"
                                                             stroke-linejoin="round" stroke-width="32" />
                                                     </svg>
-                                                    <span class=" bigcounter">2</span>
+                                                    <span class=" bigcounter">{{ $cartItems->count() }}</span>
         
                                                 </div>
         
@@ -593,98 +593,12 @@
         
                             <nav>
                                 <ul class="mobile-menu">
-                                    <li class="menu-item-has-children"><a href="index.html">Home</a>
-                                        <ul class="dropdown">
-                                            <li><a href="index.html">Fashion 1</a></li>
-                                            <li><a href="home-2.html">Fashion 2</a></li>
-                                            <li><a href="home-3.html">Fashion 3</a></li>
-                                            <li><a href="home-4.html">Beauty</a></li>
-                                            <li><a href="home-5.html">Jewelry</a></li>
-                                            <li><a href="home-6.html">T-Shirt</a></li>
-                                            <li><a href="home-7.html">Electronics</a></li>
-                                            <li><a href="home-8.html">Single Product</a></li>
-                                            <li><a href="home-9-dark.html">Home Dark</a></li>
-                                        </ul>
-                                    </li>
-        
-                                    <li class="menu-item-has-children"><a href="shop.html">Shop</a>
-        
-                                        <ul class="dropdown">
-                                            <li class="menu-item-has-children">
-                                                <a class="menu__title" href="categories.html">Women's Fashion</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="#">Dresses</a></li>
-                                                    <li><a href="#">Tops & Blouses</a></li>
-                                                    <li><a href="#">Sweaters & Cardigans</a></li>
-                                                    <li><a href="#">Jackets & Coats</a></li>
-                                                    <li><a href="#">Pants & Jeans</a></li>
-                                                    <li><a href="#">Skirts</a></li>
-                                                    <li><a href="#">Active wear</a></li>
-                                                    <li><a href="#">Lingerie & Sleepwear</a></li>
-                                                </ul>
-                                            </li>
-        
-        
-                                            <li class="menu-item-has-children">
-                                                <a class="menu__title" href="categories.html">Men's Fashion</a>
-                                                <ul class="dropdown">
-                                                    <li><a href="#">Shirts</a></li>
-                                                    <li>
-                                                        <a href="#">T-Shirts & Polos
-                                                            <span class="header__label hot__color">Hot</span>
-                                                        </a>
-                                                    </li>
-                                                    <li><a href="#">Sweaters & Hoodies</a></li>
-                                                    <li><a href="#">Jackets & Blazers</a></li>
-                                                    <li><a href="#">Pants & Chinos</a></li>
-                                                    <li><a href="#">Jeans</a></li>
-                                                    <li><a href="#">Suits & Formal wear</a></li>
-                                                    <li><a href="#">Active wear</a></li>
-                                                </ul>
-                                            </li>
-        
-        
-                                            <li class="menu-item-has-children">
-                                                <a class="menu__title" href="categories.html">Accessories</a>
-                                                <ul class="dropdown">
-        
-                                                    <li><a href="#">Bags & Purses</a></li>
-                                                    <li><a href="#">Hats & Caps</a></li>
-                                                    <li><a href="#">Scarves & Shawls</a></li>
-                                                    <li><a href="#">Belts & Suspenders</a></li>
-                                                    <li>
-                                                        <a href="#">Sunglasses
-                                                            <span class="header__label">New</span>
-                                                        </a>
-                                                    </li>
-                                                    <li><a href="#">Jewelry</a></li>
-                                                    <li><a href="#">Watches</a></li>
-                                                    <li><a href="#">Mobile</a></li>
-        
-                                                </ul>
-                                            </li>
-        
-                                            <li class="menu-item-has-children">
-                                                <a class="menu__title" href="categories.html">Footwear</a>
-                                                <ul class="dropdown">
-        
-                                                    <li><a href="#">Flats & Loafers</a></li>
-                                                    <li><a href="#">Heels & Pumps</a></li>
-                                                    <li><a href="#">Sneakers & Athletic</a></li>
-                                                    <li><a href="#">Dress Shoes</a></li>
-                                                    <li><a href="#">Casual Shoes</a></li>
-                                                    <li><a href="#">Boots & Chukkas</a></li>
-                                                    <li><a href="#">Sandals & Slides</a></li>
-                                                    <li><a href="#">Pumps & Slides</a></li>
-        
-                                                </ul>
-                                            </li>
-        
-                                        </ul>
-        
-        
-                                    </li>
-        
+                                   <ul>
+                                    <li><a href="{{ route('product.index') }}">Product</a></li>
+                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="{{ route('cart.index') }}">Cart</a></li>
+                                   </ul>
+
                                     <li class="menu-item-has-children"><a href="categories.html">Categories</a>
                                         <ul class="dropdown">
         

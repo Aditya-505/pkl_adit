@@ -8,7 +8,7 @@
                     Tambah category
                 </div>
                 <div class="card-body">
-                    <form action="{{ route('category.store') }}" method="post">
+                    <form action="{{ route('backend.category.store') }}" method="post">
                         <table foe="">Nama ketegory</table>
                         <input type="text" name="name" class="form-control" @error('name') is-invalid @enderror">
                         @error('name')

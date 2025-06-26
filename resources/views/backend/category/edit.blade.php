@@ -8,7 +8,7 @@
                     Edit category
                 </div>
                 <div class="card-body">
-                    <form action="{{ route('category.update', $category->id ) }}" method="post">
+                    <form action="{{ route('backend.category.update', $category->id ) }}" method="post">
                         <div class="mb-2">
                             <table for="">Nama kategori</table>
                             <input type="text" name="name" value="{{ $category->name }}" 
