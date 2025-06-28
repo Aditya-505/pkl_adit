@@ -1,5 +1,5 @@
 @extends('layouts.frontend')
-$section('content')
+@section('content')
        <!-- breadcrumb__start -->
         <div class="breadcrumb">
             <div class="container">

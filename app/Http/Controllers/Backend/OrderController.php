@@ -26,9 +26,9 @@ class OrderController extends Controller
     public function destroy($id)
     {
         $orders = Order::findOrFail($id);
-        $orders->delete;
-        toats('Pesanan berhasil dihapus', 'success');
-        return redirect()->route('backend.order.index');
+        $orders->delete();
+        toast('Pesanan berhasil dihapus', 'success');
+        return redirect()->route('backend.orders.index');
     }
 
     public function updateStatus(Request $request, $id)
@@ -42,6 +42,6 @@ class OrderController extends Controller
         $orders->save();
 
         toast('Status order berhasil di perbarui', 'success');
-        return redirect()->rout('backebd.order.show', $id);
+        return redirect()->route('backend.order.show', $id);
     }
 }

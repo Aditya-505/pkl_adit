@@ -98,258 +98,22 @@
                                 <a href="#"><img src="img/logo/logo__1.png" alt=""></a>
                             </div>
                         </div>
-        
-        
+
+
                         <div class="col-xl-7 col-lg-7 col-md-6 main_menu_wrap">
-        
+
                             <div class="headerarea__main__menu ">
-                                <nav>
-                                    <ul>
-                                        <li><a class="headerarea__has__dropdown " href="index.html">Home
-                                            </a>
-                                            <ul class="headerarea__submenu">
-                                                <li><a href="index.html">Fashion 1</a></li>
-                                                <li><a href="home-2.html">Fashion 2</a></li>
-                                                <li><a href="home-3.html">Fashion 3</a></li>
-                                                <li><a href="home-4.html">Beauty</a></li>
-                                                <li><a href="home-5.html">Jewelry</a></li>
-                                                <li><a href="home-6.html">T-Shirt</a></li>
-                                                <li><a href="home-7.html">Electronics</a></li>
-                                                <li><a href="home-8.html">Single Product</a></li>
-                                                <li><a href="home-9-dark.html">Home Dark</a></li>
-                                            </ul>
-                                        </li>
-        
-                                        <li class="position-static">
-                                            <a class="headerarea__has__dropdown" href="shop.html">Shop
-                                                <span class="header__label">New</span>
-                                            </a>
-        
-                                            <ul class="headerarea__submenu headerarea__megamenu">
-                                                <li class="mega__menu__li">
-                                                    <a class="menu__title" href="categories.html">Women's Fashion</a>
-                                                    <ul>
-                                                        <li><a href="#">Dresses</a></li>
-                                                        <li><a href="#">Tops & Blouses</a></li>
-                                                        <li><a href="#">Sweaters & Cardigans</a></li>
-                                                        <li><a href="#">Jackets & Coats</a></li>
-                                                        <li><a href="#">Pants & Jeans</a></li>
-                                                        <li><a href="#">Skirts</a></li>
-                                                        <li><a href="#">Active wear</a></li>
-                                                        <li><a href="#">Lingerie & Sleepwear</a></li>
-                                                    </ul>
-                                                </li>
-        
-        
-                                                <li class="mega__menu__li">
-                                                    <a class="menu__title" href="categories.html">Men's Fashion</a>
-                                                    <ul>
-                                                        <li><a href="#">Shirts</a></li>
-                                                        <li>
-                                                            <a href="#">T-Shirts & Polos
-                                                                <span class="header__label hot__color">Hot</span>
-                                                            </a>
-                                                        </li>
-                                                        <li><a href="#">Sweaters & Hoodies</a></li>
-                                                        <li><a href="#">Jackets & Blazers</a></li>
-                                                        <li><a href="#">Pants & Chinos</a></li>
-                                                        <li><a href="#">Jeans</a></li>
-                                                        <li><a href="#">Suits & Formal wear</a></li>
-                                                        <li><a href="#">Active wear</a></li>
-                                                    </ul>
-                                                </li>
-        
-        
-                                                <li class="mega__menu__li">
-                                                    <a class="menu__title" href="categories.html">Accessories</a>
-                                                    <ul>
-        
-                                                        <li><a href="#">Bags & Purses</a></li>
-                                                        <li><a href="#">Hats & Caps</a></li>
-                                                        <li><a href="#">Scarves & Shawls</a></li>
-                                                        <li><a href="#">Belts & Suspenders</a></li>
-                                                        <li>
-                                                            <a href="#">Sunglasses
-                                                                <span class="header__label">New</span>
-                                                            </a>
-                                                        </li>
-                                                        <li><a href="#">Jewelry</a></li>
-                                                        <li><a href="#">Watches</a></li>
-                                                        <li><a href="#">Mobile</a></li>
-        
-                                                    </ul>
-                                                </li>
-        
-        
-        
-                                                <li class="mega__menu__li">
-                                                    <a class="menu__title" href="categories.html">Footwear</a>
-                                                    <ul>
-        
-                                                        <li><a href="#">Flats & Loafers</a></li>
-                                                        <li><a href="#">Heels & Pumps</a></li>
-                                                        <li><a href="#">Sneakers & Athletic</a></li>
-                                                        <li><a href="#">Dress Shoes</a></li>
-                                                        <li><a href="#">Casual Shoes</a></li>
-                                                        <li><a href="#">Boots & Chukkas</a></li>
-                                                        <li><a href="#">Sandals & Slides</a></li>
-                                                        <li><a href="#">Pumps & Slides</a></li>
-        
-                                                    </ul>
-                                                </li>
-        
-                                            </ul>
-        
-                                        </li>
-        
-                                        <li class="position-static">
-                                            <a class="headerarea__has__dropdown" href="categories.html">Categories
-                                                <span class="header__label hot__color">Hot</span>
-                                            </a>
-        
-                                            <ul class="headerarea__submenu headerarea__megamenu">
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Featured Product</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__1.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">New Arrivals</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__2.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Summer Styles</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__3.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Winter Fashion</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__4.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Accessories</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__5.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Footwear</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__6.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Men</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__7.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-                                                <li class="mega__menu__li mega__menu__image">
-                                                    <a class="menu__title" href="categories.html">Women</a>
-                                                    <ul>
-                                                        <li>
-                                                            <a href="categories.html">
-                                                                <img class="img-fluid" src="img/collection/collection__8.png"
-                                                                    alt="Collection">
-                                                            </a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-        
-        
-                                            </ul>
-        
-                                        </li>
-        
-                                        <li><a href="about.html">About</a> </li>
-        
-        
-                                        <li><a class="headerarea__has__dropdown" href="blog.html">Blog
-        
-                                            </a>
-                                            <ul class="headerarea__submenu">
-                                                <li><a href="blog-details.html">Blog-Details</a></li>
-                                            </ul>
-        
-        
-                                        </li>
-        
-        
-                                        <li><a class="headerarea__has__dropdown" href="#">Pages
-                                            </a>
-        
-                                            <ul class="headerarea__submenu">
-                                                <li><a href="about.html">About</a></li>
-                                                <li><a href="contact.html">Contact</a></li>
-                                                <li><a href="service.html">Service</a></li>
-                                                <li><a href="faq.html">FAQ</a></li>
-                                                <li><a href="wishlist.html">Wishlist</a></li>
-                                                <li><a href="cart.html">Cart</a></li>
-                                                <li><a href="categories.html">Categories</a></li>
-                                                <li><a href="checkout.html">Checkout</a></li>
-                                                <li><a href="https://themeforest.net/user/marino-themes">Purchase Now</a></li>
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </nav>
+                        <nav>
+                            <ul>
+                                <li><a href="{{ route('product.index')}}">Product</a> </li> 
+                                <li><a href="{{ url('/about') }}">About</a> </li>
+                                <li><a href="{{ route('cart.index')}}">Cart</a> </li>
+                            </ul>
+                        </nav>
                             </div>
-        
                         </div>
-        
-        
                         <div class="col-xl-3 col-lg-3 col-md-6">
-        
                             <div class="headerarea__right">
-        
                                 <ul class="headerarea__right__nav">
                                     <li class="disclosure__button">
                                         <div class="disclosure__button__language cursor__pointer">
@@ -363,17 +127,17 @@
                                                 </li>
                                                 <li>
                                                     <a href="#"> Ålann (EUR €)
-        
+
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="#"> Albania (ALL L)</a>
                                                 </li>
-        
+
                                                 <li>
                                                     <a href="#"> Albania (ALL L)</a>
                                                 </li>
-        
+
                                                 <li>
                                                     <a href="#"> Albania (ALL L)</a>
                                                 </li>
@@ -383,13 +147,13 @@
                                                 </li>
                                                 <li>
                                                     <a href="#"> Islands (EUR €)
-        
+
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="#"> Albania (ALL L)</a>
                                                 </li>
-        
+
                                                 <li>
                                                     <a href="#"> Albania (ALL L)</a>
                                                 </li>
@@ -398,23 +162,23 @@
                                     </li>
                                     <li>
                                         <div class="headerarea__search cursor__pointer">
-        
+
                                             <svg role="presentation" stroke-width="2" focusable="false" width="22" height="22"
                                                 class="icon icon-search" viewBox="0 0 22 22">
                                                 <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
                                                 <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round"
                                                     stroke-linejoin="round"></path>
                                             </svg>
-        
-        
+
+
                                         </div>
                                     </li>
-        
-        
+
+
                                     <li>
                                         <div class="setting__wrap cursor__pointer">
                                             <div class="setting__wrap__active">
-        
+
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
                                                     <path
                                                         d="M344 144c-3.92 52.87-44 96-88 96s-84.15-43.12-88-96c-4-55 35-96 88-96s92 42 88 96z"
@@ -425,11 +189,11 @@
                                                         fill="none" stroke="currentColor" stroke-miterlimit="10"
                                                         stroke-width="32" />
                                                 </svg>
-        
+
                                             </div>
                                         </div>
                                     </li>
-        
+
                                     <li>
                                         <div class="headermiddle__bar cursor__pointer">
                                             <div class="headermiddle__account">
@@ -449,29 +213,19 @@
                                                             stroke-linejoin="round" stroke-width="32" />
                                                     </svg>
                                                     <span class=" bigcounter">{{ $cartItems->count() }}</span>
-        
+
                                                 </div>
-        
+
                                             </div>
                                         </div>
-        
-        
                                     </li>
-        
-        
-        
                                 </ul>
-        
                             </div>
-        
                         </div>
-        
                     </div>
-        
-        
                 </div>
             </div>
-        
+
             <div class="container-fluid mob_menu_wrapper headerarea header__sticky">
                 <div class="row align-items-center">
                     <div class="col-sm-4 col-2">
@@ -494,29 +248,21 @@
                     </div>
                     <div class="col-sm-4 col-5">
                         <div class="header-right-wrap">
-        
-        
                             <div class="header__right__inner__wrap d-flex align-items-center justify-content-end">
-        
                                 <ul class="headerarea__right headerarea__right__mobail__menu">
                                     <li>
                                         <div class="headerarea__search cursor__pointer">
-        
                                             <svg role="presentation" stroke-width="2" focusable="false" width="22" height="22"
                                                 class="icon icon-search" viewBox="0 0 22 22">
                                                 <circle cx="11" cy="10" r="7" fill="none" stroke="currentColor"></circle>
                                                 <path d="m16 15 3 3" stroke="currentColor" stroke-linecap="round"
                                                     stroke-linejoin="round"></path>
                                             </svg>
-        
-        
                                         </div>
                                     </li>
-        
                                     <li>
                                         <div class="setting__wrap cursor__pointer">
                                             <div class="setting__wrap__active">
-        
                                                 <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512">
                                                     <path
                                                         d="M344 144c-3.92 52.87-44 96-88 96s-84.15-43.12-88-96c-4-55 35-96 88-96s92 42 88 96z"
@@ -527,11 +273,11 @@
                                                         fill="none" stroke="currentColor" stroke-miterlimit="10"
                                                         stroke-width="32" />
                                                 </svg>
-        
+
                                             </div>
                                         </div>
                                     </li>
-        
+
                                     <li>
                                         <div class="headermiddle__bar cursor__pointer">
                                             <div class="headermiddle__account">
@@ -551,36 +297,36 @@
                                                             stroke-linejoin="round" stroke-width="32" />
                                                     </svg>
                                                     <span class=" bigcounter">2</span>
-        
+
                                                 </div>
-        
+
                                             </div>
                                         </div>
-        
-        
+
+
                                     </li>
-        
+
                                 </ul>
-        
+
                             </div>
-        
+
                         </div>
                     </div>
-        
+
                 </div>
             </div>
-                
+
             <!-- Mobile Menu Start Here -->
             <div class="mobile-off-canvas-active">
                 <a class="mobile-aside-close"><i class="fa fa-close"></i></a>
                 <div class="header-mobile-aside-wrap">
-        
+
                     <div class="mobile__logo">
                         <a href="index.html">
                             <img src="img/logo/logo__1.png" alt="Logo">
                         </a>
                     </div>
-        
+
                     <div class="mobile-search">
                         <form class="search-form" action="#">
                             <input type="text" placeholder="Search entire store…">
@@ -588,9 +334,9 @@
                         </form>
                     </div>
                     <div class="mobile-menu-wrap">
-        
+
                         <div class="mobile-navigation">
-        
+
                             <nav>
                                 <ul class="mobile-menu">
                                    <ul>
@@ -601,7 +347,7 @@
 
                                     <li class="menu-item-has-children"><a href="categories.html">Categories</a>
                                         <ul class="dropdown">
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Featured Product</a>
                                                 <ul class="dropdown">
@@ -613,7 +359,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">New Arrivals</a>
                                                 <ul class="dropdown">
@@ -625,7 +371,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Summer Styles</a>
                                                 <ul class="dropdown">
@@ -637,7 +383,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Winter Fashion</a>
                                                 <ul class="dropdown">
@@ -649,7 +395,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Accessories</a>
                                                 <ul class="dropdown">
@@ -661,7 +407,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Footwear</a>
                                                 <ul class="dropdown">
@@ -673,7 +419,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Men</a>
                                                 <ul class="dropdown">
@@ -685,7 +431,7 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
+
                                             <li class="menu-item-has-children">
                                                 <a class="menu__title" href="categories.html">Women</a>
                                                 <ul class="dropdown">
@@ -697,13 +443,13 @@
                                                     </li>
                                                 </ul>
                                             </li>
-        
-        
+
+
                                         </ul>
                                     </li>
                                     <li><a href="about.html">About</a>
                                     </li>
-        
+
                                     <li class="menu-item-has-children"><a href="blog.html">Pages</a>
                                         <ul class="dropdown">
                                             <li><a href="about.html">About</a></li>
@@ -719,10 +465,10 @@
                                     </li>
                                 </ul>
                             </nav>
-        
+
                         </div>
-        
-        
+
+
                     </div>
                     <div class="mobile-curr-lang-wrap">
                         <div class="single-mobile-curr-lang">
@@ -735,12 +481,12 @@
                                 </ul>
                             </div>
                         </div>
-        
+
                         <div class="single-mobile-curr-lang">
                             <a class="mobile-account-active" href="#">My Account <i class="fa fa-angle-down"></i></a>
                             <div class="lang-curr-dropdown account-dropdown-active">
                                 <ul>
-                                    <li><a href="login.html">Login</a></li>
+                                    <li><a href="{{ route('login')}}">Login</a></li>
                                     <li><a href="register.html">Creat Account</a></li>
                                     <li><a href="#">My Account</a></li>
                                 </ul>
@@ -757,7 +503,7 @@
                 </div>
             </div>
             <!-- Mobile Menu end Here -->
-        
+
             <!-- setting__wrap__list__start -->
             <div class="setting__wrap__list">
                 <button class="setting__wrap__close">
@@ -766,7 +512,7 @@
                         <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32"
                             d="M368 368L144 144M368 144L144 368"></path>
                     </svg></button>
-        
+
                 <div class="setting__wrap__heading">
                     <h6>
                         <a href="#">Account</a>
@@ -775,7 +521,7 @@
                 <div class="setting__wrap__list__inner">
                     <ul>
                         <li>
-                            <a href="login.html">Login</a>
+                            <a href="{{ route('login')}}">Login</a>
                         </li>
                         <li>
                             <a href="cart.html">Cart</a>
@@ -787,7 +533,7 @@
                 </div>
             </div>
             <!-- setting__wrap__list__end -->
-        
+
             <!-- header__search -->
             <div class="headersearch__active">
                 <div class="headersearch__active__icon">
@@ -809,77 +555,9 @@
                 </div>
             </div>
             <!-- header__search -->
-                
+
             <!-- minicart__section__start -->
-            <section class="minicart">
-                <div class="minicart__inner">
-                    <div class="minicart__wrapper">
-                        <div class="minicart__close__icon">
-                            <div class="minicart__cart__text ">
-                                <strong>Cart</strong>
-                            </div>
-                            <button class="minicart__close__btn">
-                                <i class="fa fa-close"></i>
-                            </button>
-        
-                        </div>
-        
-                        <div class="minicart__single__wraper">
-                            <div class="minicart__single">
-        
-                                <div class="minicart__single__img">
-                                    <a href="single-product.html">
-                                        <img src="img/grid/grid__1.png" alt="product">
-                                    </a>
-                                    <div class="minicart__single__close">
-                                        <button title="Remove"><i class="fa fa-close"></i></button>
-                                    </div>
-                                </div>
-                                <div class="minicart__single__content">
-                                    <h4><a href="single-product.html">E. Casual Comforts T-shirt</a></h4>
-                                    <span>1 x <span class="money">$5,.00 USD</span></span>
-        
-                                </div>
-        
-                            </div>
-        
-                            <div class="minicart__single">
-        
-                                <div class="minicart__single__img">
-                                    <a href="single-product.html">
-                                        <img src="img/grid/grid__2.png" alt="product">
-                                    </a>
-                                    <div class="minicart__single__close">
-                                        <button title="Remove"><i class="fa fa-close"></i></button>
-                                    </div>
-                                </div>
-                                <div class="minicart__single__content">
-                                    <h4><a href="single-product.html">M. Denim Clothing Jacket</a></h4>
-                                    <span>1 x <span class="money">$4,.00 USD</span></span>
-        
-                                </div>
-        
-                            </div>
-                        </div>
-        
-                        <div class="minicart__footer">
-                            <div class="minicart__subtotal">
-                                <span class="subtotal__title">Subtotal:</span>
-                                <span class="subtotal__amount">$9.00 USD</span>
-                            </div>
-                            <div class="minicart__button">
-                                <a href="cart.html" class="default__button">View Cart</a>
-                                <a href="checkout.html" class="default__button">Checkout</a>
-                            </div>
-                            <div class="cart__note__text">
-                                <p>Free Shipping on All Orders Over $100!</p>
-                            </div>
-                        </div>
-        
-        
-                    </div>
-                </div>
-            </section>
+            @include('layouts.component-frontend.mini-cart')
             <!-- minicart__section__end -->
-        
+
         </header>

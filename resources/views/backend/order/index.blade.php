@@ -46,13 +46,10 @@
                                             <td>
                                                 <a href="{{ route('backend.orders.show', $order->id) }}"
                                                     class="btn btn-info btn-sm">Detail</a>
-                                                <form action="{{ route('backend.orders.destroy', $order->id) }}"
-                                                    method="POST" style="display:inline;"
-                                                    onsubmit="return confirm('Yakin ingin menghapus order ini?')">
-                                                    @csrf
-                                                    @method('DELETE')
-                                                    <button class="btn btn-danger btn-sm">Hapus</button>
-                                                </form>
+                                                    <a href="{{ route('backend.orders.destroy', $order->id) }}" class="btn btn-sm btn-danger"
+                                                        data-confirm-delete="true">
+                                                        Delete
+                                                    </a>
                                             </td>
                                         </tr>
                                     @endforeach

@@ -22,7 +22,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        view::composer('*', function ($view) {
+        View::composer('*', function ($view) {
             $cartItems = [];
 
             if (Auth::check()) {

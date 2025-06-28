@@ -1,16 +1,16 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use App\Models\Review;
 use Illuminate\Http\Request;
 
 class ReviewController extends Controller
 {
     public function store(Request $request)
     {
-        $request->validete([
+        $request->validate([
             'point' => 'required|integer|min:1|max:5',
-            'coment' => 'required|string',
+            'comment' => 'required|string',
 
         ]);
         $review = new Review();
@@ -18,9 +18,9 @@ class ReviewController extends Controller
         $review->product_id  = $request->product_id;
         $review->point       = $request->point;
         $review->comment     = $request->comment;
-        $review->seve();
+        $review->save();
 
-        toats('Terimakasih atas ulasan anda', 'success');
+        toast('Terimakasih atas ulasan anda', 'success');
         return back();
     }
 }
